@@ -1,7 +1,7 @@
 ### Why hello there! 👋
 <br />
 
-### 💻 &nbsp;About Me 
+## 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Internet Gangster
 
