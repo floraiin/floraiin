@@ -14,6 +14,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
 ![mySQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=C%2B%2B&logo=javascript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
