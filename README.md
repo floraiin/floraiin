@@ -4,6 +4,7 @@
 ## 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Internet Gangster
+- 🎓 &nbsp; Full Stack Developer
 
 
 ### 🛠 Coding Languages: 
