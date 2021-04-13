@@ -2,6 +2,8 @@
 <br />
 
 ## 💻 &nbsp;About Me 
+Hi! My name is floraiin, I mainly focus on JSQL and SQL Injections and finding RCE vulnerabilitys. In my freetime, I love to code. Below, you can find the Coding Languages that I excell in. 
+
 
 - 🎓 &nbsp; Internet Gangster
 - 🎓 &nbsp; Full Stack Developer
