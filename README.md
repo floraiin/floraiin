@@ -6,7 +6,6 @@ Hi! My name is floraiin, I mainly focus on JSQL and SQL Injections and finding R
 
 
 - 🎓 &nbsp; Internet Gangster
-- 🎓 &nbsp; Full Stack Developer
 
 
 ### 🛠 Coding Languages: 
